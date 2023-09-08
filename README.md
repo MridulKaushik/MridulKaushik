@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--gh2tsoEm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kemauetddjar4x5vtq0w.png)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--gh2tsoEm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kemauetddjar4x5vtq0w.png)
 <h1 align="center">Hi 👋, I'm Mridul kant Kaushik</h1>
 <h3 align="center">A passionate and ambitious backend developer from India. I specialize in Django web development.</h3>
 
