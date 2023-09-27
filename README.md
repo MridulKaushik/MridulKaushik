@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/mridulk_kaushik" target="blank"><img src="https://img.shields.io/twitter/follow/mridulk_kaushik?logo=twitter&style=for-the-badge" alt="mridulk_kaushik" /></a> </p>
 
-- 🔭 I’m currently working on **Video Chat App**
+- 🔭 I’m currently working on **Nothing Specific**
 
-- 🌱 I’m currently learning **ReactJs, TailWind**
+- 🌱 I’m currently learning **Advanced Django and ReactJs**
 
 - 💬 Ask me about **Django, Python**
 
